@@ -10,36 +10,26 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░ WHO AM I ░░░░░░░░░░░░░░░░░░░░░░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-</div>
 
 ```yaml
 name      : psychoray
 status    : existing... barely
-mood      : [ ██████░░░░ ] perpetually tired
+mood      : ██████░░░░  perpetually tired
 purpose   : unknown
 found_in  : the darkest corner of the internet
 ```
 
+</div>
+
+<br>
+
 ---
 
 <div align="center">
-
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░ ARSENAL ░░░░░░░░░░░░░░░░░░░░░░░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
+<h3>⚔️ arsenal</h3>
 </div>
 
 <div align="center">
@@ -60,13 +50,7 @@ found_in  : the darkest corner of the internet
 ---
 
 <div align="center">
-
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░ GITHUB METRICS ░░░░░░░░░░░░░░░░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
+<h3>📊 github metrics</h3>
 </div>
 
 <div align="center">
@@ -77,8 +61,13 @@ found_in  : the darkest corner of the internet
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=psychoray&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychoray&theme=dark&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=psychoray&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&ring_color=ffffff)
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychoray&theme=dark&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
@@ -86,19 +75,11 @@ found_in  : the darkest corner of the internet
 
 <div align="center">
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░ QUOTE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-*"The loneliest people are the kindest.*
-*The saddest people smile the brightest.*
-*The most damaged people are the wisest."*
+*「 the loneliest people are the kindest.*
+*the saddest people smile the brightest.*
+*the most damaged people are the wisest. 」*
 
 </div>
-
----
 
 <div align="center">
 
