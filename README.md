@@ -1,26 +1,12 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=psychoray&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=「　lonely　•　broken　•　coding　」&descAlignY=60&descAlign=50)
-
-</div>
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-.q0n-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.q0n)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=180&section=header&text=psychoray&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=systems.%20low-level.%20silence.&descAlignY=58&descAlign=50&descSize=16" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
 
-```yaml
-name      : psychoray
-status    : existing... barely
-mood      : ██████░░░░  perpetually tired
-purpose   : unknown
-found_in  : the darkest corner of the internet
-```
+[![Discord](https://img.shields.io/badge/-.q0n-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/.q0n)
 
 </div>
 
@@ -29,29 +15,38 @@ found_in  : the darkest corner of the internet
 ---
 
 <div align="center">
-<h3>⚔️ arsenal</h3>
-</div>
 
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-333333?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white)
+| | |
+|:--|:--|
+| **Focus** | Low-level systems, security, tooling |
+| **Languages** | C · C++ · Rust · Python · Assembly · Bash |
+| **Environment** | Linux · Neovim · Docker · Git |
+| **Status** | writing code nobody asked for |
 
 </div>
 
 ---
 
+<br>
+
 <div align="center">
-<h3>📊 github metrics</h3>
+
+![C](https://img.shields.io/badge/C-ffffff?style=flat-square&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=cplusplus&logoColor=000000)
+![Rust](https://img.shields.io/badge/Rust-ffffff?style=flat-square&logo=rust&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=000000)
+![Assembly](https://img.shields.io/badge/Assembly-ffffff?style=flat-square&logo=assemblyscript&logoColor=000000)
+![Bash](https://img.shields.io/badge/Bash-ffffff?style=flat-square&logo=gnubash&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=000000)
+![Neovim](https://img.shields.io/badge/Neovim-ffffff?style=flat-square&logo=neovim&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=000000)
+
 </div>
+
+<br>
+
+---
 
 <div align="center">
 
@@ -59,30 +54,24 @@ found_in  : the darkest corner of the internet
 
 </div>
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=psychoray&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&ring_color=ffffff)
-
-</div>
+<br>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychoray&theme=dark&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=psychoray&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=ffffff&hide_title=false)
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
-
-*「 the loneliest people are the kindest.*
-*the saddest people smile the brightest.*
-*the most damaged people are the wisest. 」*
-
+  <sub>the code works. that is enough.</sub>
 </div>
 
+<br>
+
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer" width="100%" />
 </div>
